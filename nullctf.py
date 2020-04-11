@@ -10,7 +10,7 @@ import help_info
 import auth
 
 #Auth is set up like so:
-auth_token = 'Njk4NDMxNzE2Nzc5MzYwMzI3.XpFvSw.D8WmzYGx38bn-wmutFWDaNIzgJ8'
+auth_token = 'Njk4NDMxNzE2Nzc5MzYwMzI3.XpFwAA.lTRemQ8ooyz3NO5lb_km_HkdvCc'
 #conn = "mongodb+srv://MONGODBUSER:PASSWORD@YOURCLUSTER.mongodb.net"
 
 
